@@ -1,0 +1,81 @@
+.scont,.msservice{
+    padding: 20px 0px;
+}
+.scont1{
+    padding-bottom: 0px;
+}
+.scont h2{
+    padding: 20px 0px;
+}
+.scont h5{
+    padding: 15px 0px;
+}
+
+ @media (max-width: 967px){
+    .appservice ul li::before {
+       
+        
+        width: 17px !important;
+        
+      }
+} 
+.blocktiles {
+    padding-left: 15px;
+   
+}
+.footernav{
+    cursor: pointer;
+   
+}
+a:hover ,.cusomapphref:hover,.cusomapphref{
+    color: #000000;
+    text-decoration: none !important;
+}
+
+@media (min-width: 767px){
+    .blocktiles {
+        padding-left: 0px;
+        margin-left: -80px;
+    }
+}
+.appservice{
+    background: #f2f2f2;
+}
+
+.firstsectionrow{
+    padding-bottom: 30px;
+    margin-top: 10px;
+}
+.labelapps,.imgmaindiv{
+    
+    padding-top: 20px;
+
+}
+.appservice{
+    
+    padding: 40px 0px;
+
+}
+.appservice h5{
+    color: #cb2c2c;
+}
+.appservice ul{
+    list-style: none;
+    padding-left: 60px;
+   
+   
+}
+.appservice ul li::before {
+    content: ">";
+    color: #cb2c2c;
+    font-weight: bold;
+    display: inline-block; 
+    width: 1.5em;
+    margin-left: -1em;
+  }
+.appservice ul li{
+    color: black;
+}
+.techcol{
+    padding: 20px;
+}
